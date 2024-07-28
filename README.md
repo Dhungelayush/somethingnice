@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## love-journey-template-haryphamdev
 
 ### A HTML/CSS Template, showing your love story
@@ -25,3 +26,6 @@ Twitter: https://twitter.com/haryphamdev
 GitHub: https://github.com/haryphamdev
 
 
+=======
+asdfghjkl;
+>>>>>>> 4b99917eed7a1be2c4805f0daabfca5e9b210af5
